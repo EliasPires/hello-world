@@ -3,4 +3,4 @@ just another repository
 
 Hi, 
 
-I like PHP and Oracle Database, and Statekoarding!!
+I like PHP, Java and Oracle Database, and Statekoarding!!
